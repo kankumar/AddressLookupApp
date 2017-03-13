@@ -10,4 +10,4 @@ Then start the Spring boot using the following
 >gradle bootRun
 
 Open the browser and type the following url to view the address details
-http://localhot:8080/address/{postcode}
+> http://localhot:8080/address/{postcode}
